@@ -25,7 +25,7 @@ A fully offline Smart Assistant built with Streamlit that responds to voice comm
 * There will be a list of voice commands:
   
 
-## 🗣️ Supported Voice Commands (Smart AI)
+## 🗣️ Supported Voice Commands (AI ASSISTANT)
 
 Your Smart AI Assistant supports the following **offline voice commands**:
 
