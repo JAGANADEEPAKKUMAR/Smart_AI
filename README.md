@@ -11,9 +11,11 @@ A fully offline Smart Assistant built with Streamlit that responds to voice comm
 -->Run the following command:
     git clone https://github.com/JAGANADEEPAKKUMAR/Smart_AI.git
     cd Smart_AI
+    
 **STEP 3:**
 --> Install the requirements.txt
     pip install -r requirements.txt
+    
 **STEP 4:**
 -->Run the Application
     python -m streamlit run SmartAI.py
