@@ -24,7 +24,6 @@ A fully offline Smart Assistant built with Streamlit that responds to voice comm
 * Your app will start and open in the browser at **http://localhost:8501**
 * There will be a list of voice commands:
   
-🗣️ Supported Voice Commands (Smart AI)
 
 ## 🗣️ Supported Voice Commands (Smart AI)
 
