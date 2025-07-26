@@ -1,0 +1,7 @@
+streamlit
+gTTS
+playsound
+SpeechRecognition
+pyautogui
+screen_brightness_control
+pyaudio
